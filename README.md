@@ -1,6 +1,6 @@
 # First PR Practice
 
-A tiny sandbox repo for learnign the standard GitHub pull request workflow:
+A tiny sandbox repo for learning the standard GitHub pull request workflow:
 branch, commit, push, open a PR, and merge.
 
 ## What's here
